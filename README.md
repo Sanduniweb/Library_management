@@ -1,4 +1,4 @@
-# LibraryManagementApp
+# Library_management
 This app helps you manage a library. You can add, view, edit, and delete books, members, and lending details. It's like having a digital library assistant in your pocket!
 
 ## Installation
