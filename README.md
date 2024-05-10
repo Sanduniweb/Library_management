@@ -29,10 +29,10 @@ For support or feedback, contact [Sanduni Lakshika](sandunisl128@gmail.com).
 
 ## Screenshots of some outputs
 
-![Register](https://github.com/Sanduniweb/LibraryManagementApp/assets/136353555/713f0492-0032-4b4f-a96a-5e48c46a4afe)
-![Login](https://github.com/Sanduniweb/LibraryManagementApp/assets/136353555/19a75594-7b0a-4144-acca-67a649391933)
-![Home](https://github.com/Sanduniweb/LibraryManagementApp/assets/136353555/64391e4b-757c-4097-8724-a50c115f6e27)
-![Addbook](https://github.com/Sanduniweb/LibraryManagementApp/assets/136353555/d3c5a36b-5644-4cf6-8240-835098762636)
-![Registermember](https://github.com/Sanduniweb/LibraryManagementApp/assets/136353555/9b6886bd-35bf-40d6-a39d-80da48c8a8c9)
+![Register]![1](https://github.com/Sanduniweb/Library_management/assets/136353555/54fc6a7a-d7d7-4aaf-9b1e-05fad7997e2d)
+![Login]![2](https://github.com/Sanduniweb/Library_management/assets/136353555/1aa7e5a9-9c77-4577-a5bb-227f6b4d4833)
+![Home]![3](https://github.com/Sanduniweb/Library_management/assets/136353555/25c23f3e-895b-47a2-bac1-40cadc48da02)
+![Addbook]![4](https://github.com/Sanduniweb/Library_management/assets/136353555/02b74a50-caf2-4311-9bb5-a3eab02f0b33)
+![Registermember]![5](https://github.com/Sanduniweb/Library_management/assets/136353555/5dea5f44-b343-4e67-8335-ef5a7fb991b0)
 
 
